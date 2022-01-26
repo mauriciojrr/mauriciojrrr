@@ -9,6 +9,7 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-#Rising developer 🚀🚀
+
+Rising developer 🚀🚀
 
 
